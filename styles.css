@@ -1,4 +1,28 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+.M-icon {
+    transform: translateY(3px);
+    margin-right: 8px;
+}
+
+.M-icon-container{
+    display: flex;
+}
+
+.M-commands {
+    background-color: var(--background-secondary);
+    margin: 1rem;
+    padding: 1rem 1rem 0px 1rem;
+    border-radius: 0.8rem;
+}
+
+.M-flex-center {
+    display: flex;
+    place-content: center;
+}
+
+a[href="https://www.buymeacoffee.com/phibr0"] > img {
+    height: 2.2em;
+}
+
+a[href="https://www.buymeacoffee.com/phibr0"]{
+    transform: translate(0, 5%);
 }
