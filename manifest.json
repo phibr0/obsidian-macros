@@ -1,7 +1,7 @@
 {
 	"id": "macro-plugin",
 	"name": "Macros",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"minAppVersion": "0.12.11",
 	"description": "Group multiple Commands into one Macro.",
 	"author": "phibr0",
