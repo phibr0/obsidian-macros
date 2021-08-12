@@ -79,12 +79,12 @@ export default class MacroSettingsTab extends PluginSettingTab {
 			new Setting(containerEl)
 				.setName(macro.name)
 				.setDesc(dsc)
-				.addButton(bt => {
-					bt.setButtonText("Edit");
-					bt.onClick(() => {
-						new MacroCreatorModal(this.plugin, macro).open();
-					});
-				})
+				// .addButton(bt => {
+				// 	bt.setButtonText("Edit");
+				// 	bt.onClick(() => {
+				// 		new MacroCreatorModal(this.plugin, macro).open();
+				// 	});
+				// })
 				.addExtraButton(bt => {
 					bt.setIcon("trash");
 					bt.onClick(async () => {
