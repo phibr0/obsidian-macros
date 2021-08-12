@@ -5,10 +5,10 @@ import CommandSuggester from './ui/commandSuggester';
 
 interface Macro {
 	commandID: string;
+	name: string;
 	mobileOnly: boolean;
 	icon: string;
 	delay: number;
-	name: string;
 	commands: string[];
 	command?: Command;
 }
