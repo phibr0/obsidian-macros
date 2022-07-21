@@ -1,3 +1,5 @@
+# This Plugin is now archived. [Commander](https://github.com/phibr0/obsidian-commander) is a work-in-progress successor!
+
 # Obsidian Macros [![GitHub tag (Latest by date)](https://img.shields.io/github/v/tag/phibr0/obsidian-macros)](https://github.com/phibr0/obsidian-macros/releases) ![GitHub all releases](https://img.shields.io/github/downloads/phibr0/obsidian-macros/total)
 
 This plugin allows you to group as many commands as you wish together into one command (Macro). You can also specify an icon and set a delay between the commands.
